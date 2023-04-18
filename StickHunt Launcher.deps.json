@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "StickHunt Launcher/1.0.0": {
+        "runtime": {
+          "StickHunt Launcher.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StickHunt Launcher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
